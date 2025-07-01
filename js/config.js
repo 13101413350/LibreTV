@@ -43,10 +43,13 @@ const API_SITES = {
     //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
     //     name: '小猫咪资源',
     // },
-    ffzy: {
-        api: 'http://ffzy5.tv/api.php/provide/vod',
-        name: '非凡影视',
-        detail: 'http://ffzy5.tv', 
+ ffzy: {
+        api: 'http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8',
+        name: '非凡资源',
+    },
+    lzzy: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
+        name: '量子资源', 
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',

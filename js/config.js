@@ -45,7 +45,7 @@ const API_SITES = {
     // },
     ffzy: {
         api: 'http://api.ffzyapi.com/api.php/provide/vod',
-        name: '非凡影视',
+        name: '非凡资源',
     },
     lzzy: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',

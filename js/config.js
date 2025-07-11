@@ -44,11 +44,11 @@ const API_SITES = {
     //     name: '小猫咪资源',
     // },
     ffzy: {
-        api: 'http://api.ffzyapi.com/api.php/provide/vod',
+        api: 'http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8',
         name: '非凡资源',
     },
     lzzy: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
         name: '量子资源',
     },
     heimuer: {

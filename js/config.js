@@ -110,7 +110,7 @@ const API_SITES = {
         name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        api: 'https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
         name: '量子资源站'
     },
     testSource: {
